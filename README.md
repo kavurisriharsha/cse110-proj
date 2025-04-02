@@ -1,4 +1,4 @@
 # Sriharsha's Homepage
 
-[Link to this website ###### bruh](about:blank)
+[Link to this website](about:blank)
 
