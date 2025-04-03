@@ -1,4 +1,3 @@
-# Sriharsha's Homepage
+# Sriharsha's User Page
 
-[Link to this website](about:blank)
-
+[Link to website](https://kavurisriharsha.github.io/cse110-proj/)
